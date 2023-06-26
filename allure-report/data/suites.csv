@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Apr 06 00:17:44 PDT 2023","Thu Apr 06 00:18:10 PDT 2023","25219","chromium","orghrm-homepage.spec.js","","","","home page elements",""
+"passed","Thu Apr 06 00:18:10 PDT 2023","Thu Apr 06 00:18:25 PDT 2023","14813","firefox","orghrm-homepage.spec.js","","","","orghrm-homepage test ",""
+"passed","Thu Apr 06 00:17:44 PDT 2023","Thu Apr 06 00:18:09 PDT 2023","24640","chromium","orghrm-homepage.spec.js","","","","orghrm-homepage test ",""
+"passed","Thu Apr 06 00:18:28 PDT 2023","Thu Apr 06 00:18:40 PDT 2023","11853","webkit","orghrm-homepage.spec.js","","","","orghrm-homepage test ",""
+"passed","Thu Apr 06 00:18:28 PDT 2023","Thu Apr 06 00:18:39 PDT 2023","11593","webkit","orghrm-homepage.spec.js","","","","home page elements",""
+"passed","Thu Apr 06 00:18:12 PDT 2023","Thu Apr 06 00:18:25 PDT 2023","12988","firefox","orghrm-homepage.spec.js","","","","home page elements",""
